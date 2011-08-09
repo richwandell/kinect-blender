@@ -1,0 +1,3 @@
+The zip file contains a visual studio project created to give me a way of opening a socket connection to read join data into blender using 
+python to make the socket connection and move the blocks around. The zip file also contians a .blend file that when run along side the 
+visual studio project, will move 2 blocks according to your hand positions.
