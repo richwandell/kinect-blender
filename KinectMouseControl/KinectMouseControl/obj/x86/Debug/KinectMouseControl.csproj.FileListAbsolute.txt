@@ -1,0 +1,16 @@
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\bin\Debug\KinectMouseControl.exe
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\bin\Debug\KinectMouseControl.pdb
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\App.g.cs
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\KinectMouseControl_MarkupCompile.cache
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\KinectMouseControl.g.resources
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\KinectMouseControl.exe
+C:\Users\Rich\documents\visual studio 2010\Projects\KinectMouseControl\KinectMouseControl\obj\x86\Debug\KinectMouseControl.pdb
